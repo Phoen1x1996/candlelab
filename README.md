@@ -1,6 +1,6 @@
 # candlelab
 
-[![CI](https://github.com/OWNER/candlelab/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/candlelab/actions/workflows/ci.yml)
+[![CI](https://github.com/Phoen1x1996/candlelab/actions/workflows/ci.yml/badge.svg)](https://github.com/Phoen1x1996/candlelab/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%E2%80%933.13-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -61,7 +61,7 @@ Open position  yes (marked to market)
 Requires Python 3.10+. On Windows, use WSL2.
 
 ```bash
-git clone https://github.com/OWNER/candlelab.git
+git clone https://github.com/Phoen1x1996/candlelab.git
 cd candlelab
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
